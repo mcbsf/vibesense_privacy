@@ -42,7 +42,7 @@ We provide an **in-app mechanism** for users to report:
 Users can submit reports via:
 
 - The in-app feedback / report feature, or
-- By contacting us directly at: **mario.cardoso.solutions@gmail.com**
+- By contacting us directly at: **mario.cardoso.dev@gmail.com**
 
 All reports are reviewed as quickly as possible. We prioritise reports that involve potential harm to children.
 
@@ -77,7 +77,7 @@ We will cooperate with law enforcement and child protection organizations as req
 
 We designate the following child safety point of contact:
 
-**Email:** mario.cardoso.solutions@gmail.com  
+**Email:** mario.cardoso.dev@gmail.com  
 **Subject line:** “VibeSense – Child Safety”
 
 This contact is empowered to:
@@ -99,4 +99,4 @@ We may update this Policy from time to time. When we do, we will change the “L
 
 ---
 
-If you have questions or concerns about these standards, please contact us at **mario.cardoso.solutions@gmail.com**.
+If you have questions or concerns about these standards, please contact us at **mario.cardoso.dev@gmail.com**.
