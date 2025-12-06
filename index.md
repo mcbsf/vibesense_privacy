@@ -113,7 +113,7 @@ We do not knowingly collect personal information from children under 13. If you 
 
 If you have questions about this Privacy Policy or about how we handle your data, you can contact us at:
 
-**Email:** mario.cardoso.solutions@gmail.com  
+**Email:** mario.cardoso.dev@gmail.com  
 (Please include "VibeSense – Privacy" in the subject line.)
 
 ---
