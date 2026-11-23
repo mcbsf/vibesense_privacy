@@ -1,6 +1,6 @@
 # VibeSense – Child Safety Standards Policy
 
-Last updated: 06 December 2025
+Last updated: 23 November 2026
 
 This Child Safety Standards Policy (“Policy”) describes how **VibeSense** (“we”, “us”, “our”) prevents, detects, and responds to **Child Sexual Abuse and Exploitation (CSAE)** and **Child Sexual Abuse Material (CSAM)** on our platform.
 
@@ -42,7 +42,7 @@ We provide an **in-app mechanism** for users to report:
 Users can submit reports via:
 
 - The in-app feedback / report feature, or
-- By contacting us directly at: **mario.cardoso.dev@gmail.com**
+- By contacting us directly at: **admin@vibesense.live**
 
 All reports are reviewed as quickly as possible. We prioritise reports that involve potential harm to children.
 
@@ -77,7 +77,7 @@ We will cooperate with law enforcement and child protection organizations as req
 
 We designate the following child safety point of contact:
 
-**Email:** mario.cardoso.dev@gmail.com  
+**Email:** admin@vibesense.live  
 **Subject line:** “VibeSense – Child Safety”
 
 This contact is empowered to:
@@ -99,4 +99,4 @@ We may update this Policy from time to time. When we do, we will change the “L
 
 ---
 
-If you have questions or concerns about these standards, please contact us at **mario.cardoso.dev@gmail.com**.
+If you have questions or concerns about these standards, please contact us at **admin@vibesense.live**.
